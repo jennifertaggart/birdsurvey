@@ -6,4 +6,5 @@ Run analysis
 
 Save table
 
-Save small figure
+Save small figure, red line
+
