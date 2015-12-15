@@ -2,6 +2,8 @@
 #I am the greatest
 #This is the best script ever
 #Everything is awesome
+# Darkness! No parents!
+# I only work in black. And very dark gray.
 # Analyze bird counts
 
 Read data file
